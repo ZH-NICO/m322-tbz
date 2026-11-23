@@ -7,6 +7,7 @@ Unser Projekt ist eine Website, auf der man Autos kaufen und verkaufen kann (äh
 ## Team
 
 - Nico Schult
+- Lionel Schultze
 
 ## Ablauf
 
